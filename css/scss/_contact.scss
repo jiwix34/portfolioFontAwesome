@@ -1,0 +1,90 @@
+///// fond noir du footer /////
+footer{
+  background-color: black;
+}
+///// fin /////
+
+///// changer la couleur du bouton
+
+///// fin /////
+
+///// texte qui se trouve dans la partie contact /////
+.textecontact{
+color: white;
+padding-top: 30px;
+}
+///// fin /////
+
+
+.groupsocial{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.social{
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background-color: white;
+  font-size: 80px;
+  text-align: center;
+  display: block;
+  color: black;
+  padding-top: 8px;
+  transition: 1s;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+.socialfacebook:hover{
+  color: #3b5998;
+}
+
+.socialmail:hover{
+  color: #d44937;
+}
+
+.socialgithub:hover{
+  color: #333333;
+}
+
+.socialtwitter:hover{
+  color: #1c9ceb;
+}
+
+.fa-envelope{
+  font-size:  60px;
+}
+
+.socialmail{
+  padding-top:0px;
+}
+
+///// class du footer /////
+.contact{
+padding-top: 30px;
+text-align: center;
+}
+
+// .liencontactreseau:hover{
+//   transition: 1s;
+// }
+//
+// .facebook:hover{
+//   background-color: #3b5998;
+// }
+//
+// .github:hover{
+//   background-color: #1c9ceb;
+// }
+//
+// .couleur3contactreseau:hover{
+//   background-color: #333333;
+// }
+// .couleur4contactreseau:hover{
+//   background-color: #d44937;
+// }
+// }
+////// fin //////

@@ -1,0 +1,21 @@
+///// zone du message pour enlever la redimention /////
+.champMessage{
+  resize: none;
+}
+///// fin /////
+
+///// div qui englobe le tout /////
+.container{
+}
+textarea.form-control{
+  height: 200px;
+}
+label{
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.btn-primary{
+  margin-top: 25px;
+}
